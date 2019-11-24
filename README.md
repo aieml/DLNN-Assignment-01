@@ -62,3 +62,19 @@ Example:    2 is a prime
 
 Hint: Use 2D Arrays
 
+<img src="Images/2D Matrices.PNG" width="400">
+
+#### 6. Develop a calculator for a desired operation between two numbers.
+
+```  
+Conditions: 
+-User chooses the operation He/ She wants.
+-And the calculator should run repeatedly till the user wants to quit.
+-if user enter, “exit” your program should terminate.
+
+Example: -If user enter, 4+2, your program should print 6
+```
+
+#### 7. Implement 3 dictionaries for sine, cosine and tangent standard angles and values shown in the figure 1. For an example when user calls sine[30] the program should display 0.5. Convert this fraction values to decimal values manually using a calculator before insert them in dictionaries.
+
+<img src="Images/trig.PNG" width="400">
